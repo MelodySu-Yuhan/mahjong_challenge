@@ -1,0 +1,8 @@
+
+{
+  "name": "Mahjong Challenge Master",
+  "description": "A fun and interactive party game companion for Mahjong nights. Draw secret 'Don't Do It' challenge cards where specific triggers force you to perform hilarious actions.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
